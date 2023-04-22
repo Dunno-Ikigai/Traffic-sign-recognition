@@ -5,6 +5,8 @@ PBL project for SE:
 
 [Dataset of This Project](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
+[Reference video](https://www.youtube.com/watch?v=qahpZkPlTRM)
+
 # Requirements
 ## Problem Statement
 Traffic and street sign recognition by vehicles while driving and notification/warning the driver of same
