@@ -27,4 +27,4 @@ Traffic and street sign recognition by vehicles while driving and notification/w
 
 
 ## OUTPUTS
-Traffic-sign-recognition/outputs/First-output-screenshot
+Traffic-sign-recognition/outputs/First-output-screenshot.png
