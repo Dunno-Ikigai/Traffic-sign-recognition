@@ -1,0 +1,5 @@
+.vscode/
+archive/
+MLenv/ 
+*.exe 
+*.zip

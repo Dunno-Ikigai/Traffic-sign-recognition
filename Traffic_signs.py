@@ -15,7 +15,7 @@ classes = 43
 cur_path = os.getcwd()
 
 for i in range(classes):
-    path = os.path.join(cur_path, 'train', str(i))
+    path = os.path.join(cur_path, 'archive//train', str(i))
     images = os.listdir(path)
 
     for a in images:
@@ -39,3 +39,4 @@ print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
 y_train = to_categorical(y_train, 43)
 y_test = to_categorical(y_test, 43)
+
