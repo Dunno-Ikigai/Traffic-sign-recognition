@@ -28,4 +28,6 @@ Traffic and street sign recognition by vehicles while driving and notification/w
 ## OUTPUTS
 ### REMARKS & OUTPUT SCREENSHOTS
 [Output 1](outputs.md/#output-1)
+
+
 [Output 2](outputs.md/#output-2)
