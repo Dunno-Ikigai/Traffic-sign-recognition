@@ -26,5 +26,5 @@ Traffic and street sign recognition by vehicles while driving and notification/w
 3)	Output of the recognized sign to notify the driver.
 
 
-##OUTPUTS
-[](Traffic-sign-recognition/outputs.md)
+## OUTPUTS
+/Traffic-sign-recognition/outputs.md/First-output-screenshot
