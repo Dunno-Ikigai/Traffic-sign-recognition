@@ -24,3 +24,6 @@ Traffic and street sign recognition by vehicles while driving and notification/w
 1)	Picturization of the signs by the vehicle.
 2)	AI model for classification of the signs.
 3)	Output of the recognized sign to notify the driver.
+
+## OUTPUTS
+[Output Screenshots](outputs.md)
