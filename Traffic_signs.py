@@ -89,7 +89,7 @@ plt.show()
 #testing accuracy on test dataset
 from sklearn.metrics import accuracy_score
 
-y_test = pd.read_csv('Test.csv')
+y_test = pd.read_csv('archive//Test.csv')
 
 labels = y_test["ClassId"].values
 imgs = y_test["Path"].values
@@ -103,7 +103,7 @@ for img in imgs:
 
 X_test=np.array(data)
 
-pred = model.predict_classes(X_test)
+pred = np.argmax(model.predict(X_test), axis=-1)
 
 #Accuracy with the test data
 from sklearn.metrics import accuracy_score
