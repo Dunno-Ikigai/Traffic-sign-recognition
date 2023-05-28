@@ -27,5 +27,8 @@ Traffic and street sign recognition by vehicles while driving and notification/w
 
 ## OUTPUTS
 ### REMARKS & OUTPUT SCREENSHOTS
-* [Remark I](outputs.md/#output-1)
-* [Remark II](outputs.md/#output-1)
+* [REMARK I](outputs.md/#remark-1)
+* [REMARK II](outputs.md/#remark-2)
+* [REMARK III](outputs.md/#remark-3)
+* [REMARK IV](outputs.md/#remark-4)
+* [REMARK V](outputs.md/#remark-5)
